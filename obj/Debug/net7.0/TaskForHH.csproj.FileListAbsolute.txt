@@ -1,0 +1,15 @@
+/workspaces/TaskForHH/bin/Debug/net7.0/TaskForHH
+/workspaces/TaskForHH/bin/Debug/net7.0/TaskForHH.deps.json
+/workspaces/TaskForHH/bin/Debug/net7.0/TaskForHH.runtimeconfig.json
+/workspaces/TaskForHH/bin/Debug/net7.0/TaskForHH.dll
+/workspaces/TaskForHH/bin/Debug/net7.0/TaskForHH.pdb
+/workspaces/TaskForHH/obj/Debug/net7.0/TaskForHH.csproj.AssemblyReference.cache
+/workspaces/TaskForHH/obj/Debug/net7.0/TaskForHH.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TaskForHH/obj/Debug/net7.0/TaskForHH.AssemblyInfoInputs.cache
+/workspaces/TaskForHH/obj/Debug/net7.0/TaskForHH.AssemblyInfo.cs
+/workspaces/TaskForHH/obj/Debug/net7.0/TaskForHH.csproj.CoreCompileInputs.cache
+/workspaces/TaskForHH/obj/Debug/net7.0/TaskForHH.dll
+/workspaces/TaskForHH/obj/Debug/net7.0/refint/TaskForHH.dll
+/workspaces/TaskForHH/obj/Debug/net7.0/TaskForHH.pdb
+/workspaces/TaskForHH/obj/Debug/net7.0/TaskForHH.genruntimeconfig.cache
+/workspaces/TaskForHH/obj/Debug/net7.0/ref/TaskForHH.dll
